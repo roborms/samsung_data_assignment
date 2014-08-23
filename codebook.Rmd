@@ -1,0 +1,12 @@
+---
+title: "codebook"
+output: html_document
+---
+
+The columns in the output file called "step_5_data.txt" are as follows:
+
+1.)  activity  -  This is the activity during which the data was collected
+
+2.)  subject_id  -  this is the id of the person that data was collected upon.
+
+3.)  avg_of_means  -  average of the means calulated grouped by activity and subject_id

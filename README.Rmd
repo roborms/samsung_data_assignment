@@ -1,0 +1,15 @@
+---
+title: "Samsung Data Assignment"
+output: html_document
+---
+
+Included in this repository is the following:
+
+1.)  run_analysis.R  -  Script to run from the default directory which includes the dataset as well.
+
+2.)  code book  - lists the column descriptions of the data.  
+
+3.)  README.md
+
+
+This script will create a file called "step_5_data.txt"" in the default directory.  Run script from default directory where the data us residing.  

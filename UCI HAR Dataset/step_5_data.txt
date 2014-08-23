@@ -1,0 +1,181 @@
+activity,subject_id,avg_of_means
+LAYING            , 1                ,-0.6075224        
+LAYING            , 2                ,-0.6399738        
+LAYING            , 3                ,-0.6414458        
+LAYING            , 4                ,-0.6308751        
+LAYING            , 5                ,-0.6317935        
+LAYING            , 6                ,-0.6194214        
+LAYING            , 7                ,-0.6283033        
+LAYING            , 8                ,-0.6270895        
+LAYING            , 9                ,-0.6284140        
+LAYING            ,10                ,-0.6336063        
+LAYING            ,11                ,-0.6435530        
+LAYING            ,12                ,-0.6301292        
+LAYING            ,13                ,-0.6243379        
+LAYING            ,14                ,-0.6283556        
+LAYING            ,15                ,-0.6398831        
+LAYING            ,16                ,-0.6359061        
+LAYING            ,17                ,-0.6298764        
+LAYING            ,18                ,-0.6450399        
+LAYING            ,19                ,-0.6329992        
+LAYING            ,20                ,-0.6443974        
+LAYING            ,21                ,-0.6311088        
+LAYING            ,22                ,-0.6321091        
+LAYING            ,23                ,-0.6280895        
+LAYING            ,24                ,-0.6342034        
+LAYING            ,25                ,-0.5895067        
+LAYING            ,26                ,-0.6406799        
+LAYING            ,27                ,-0.6459936        
+LAYING            ,28                ,-0.6405187        
+LAYING            ,29                ,-0.6463247        
+LAYING            ,30                ,-0.6426253        
+SITTING           , 1                ,-0.6334052        
+SITTING           , 2                ,-0.6405979        
+SITTING           , 3                ,-0.6227808        
+SITTING           , 4                ,-0.6270750        
+SITTING           , 5                ,-0.6270148        
+SITTING           , 6                ,-0.6254130        
+SITTING           , 7                ,-0.6288331        
+SITTING           , 8                ,-0.6377265        
+SITTING           , 9                ,-0.6275308        
+SITTING           ,10                ,-0.6400786        
+SITTING           ,11                ,-0.6360816        
+SITTING           ,12                ,-0.6363018        
+SITTING           ,13                ,-0.6381791        
+SITTING           ,14                ,-0.6399308        
+SITTING           ,15                ,-0.6414962        
+SITTING           ,16                ,-0.6422540        
+SITTING           ,17                ,-0.6437074        
+SITTING           ,18                ,-0.6502402        
+SITTING           ,19                ,-0.6389867        
+SITTING           ,20                ,-0.6398727        
+SITTING           ,21                ,-0.6447245        
+SITTING           ,22                ,-0.6340156        
+SITTING           ,23                ,-0.6328435        
+SITTING           ,24                ,-0.6466195        
+SITTING           ,25                ,-0.6453075        
+SITTING           ,26                ,-0.6427185        
+SITTING           ,27                ,-0.6473298        
+SITTING           ,28                ,-0.6373225        
+SITTING           ,29                ,-0.6441007        
+SITTING           ,30                ,-0.6460179        
+STANDING          , 1                ,-0.6474248        
+STANDING          , 2                ,-0.6364550        
+STANDING          , 3                ,-0.6268247        
+STANDING          , 4                ,-0.6185838        
+STANDING          , 5                ,-0.6188215        
+STANDING          , 6                ,-0.6292532        
+STANDING          , 7                ,-0.6336901        
+STANDING          , 8                ,-0.6394637        
+STANDING          , 9                ,-0.6337136        
+STANDING          ,10                ,-0.6308865        
+STANDING          ,11                ,-0.6483745        
+STANDING          ,12                ,-0.6276840        
+STANDING          ,13                ,-0.6392977        
+STANDING          ,14                ,-0.6337711        
+STANDING          ,15                ,-0.6400371        
+STANDING          ,16                ,-0.6465384        
+STANDING          ,17                ,-0.6446751        
+STANDING          ,18                ,-0.6455185        
+STANDING          ,19                ,-0.6401367        
+STANDING          ,20                ,-0.6200277        
+STANDING          ,21                ,-0.6384502        
+STANDING          ,22                ,-0.6359921        
+STANDING          ,23                ,-0.6370242        
+STANDING          ,24                ,-0.6341949        
+STANDING          ,25                ,-0.6452980        
+STANDING          ,26                ,-0.6440045        
+STANDING          ,27                ,-0.6443562        
+STANDING          ,28                ,-0.6278835        
+STANDING          ,29                ,-0.6502453        
+STANDING          ,30                ,-0.6306355        
+WALKING           , 1                ,-0.3191058        
+WALKING           , 2                ,-0.3857081        
+WALKING           , 3                ,-0.3868659        
+WALKING           , 4                ,-0.4305566        
+WALKING           , 5                ,-0.3785351        
+WALKING           , 6                ,-0.3375134        
+WALKING           , 7                ,-0.3067645        
+WALKING           , 8                ,-0.2997555        
+WALKING           , 9                ,-0.3716466        
+WALKING           ,10                ,-0.3270868        
+WALKING           ,11                ,-0.4313665        
+WALKING           ,12                ,-0.3555602        
+WALKING           ,13                ,-0.3169888        
+WALKING           ,14                ,-0.3855018        
+WALKING           ,15                ,-0.3905263        
+WALKING           ,16                ,-0.4313628        
+WALKING           ,17                ,-0.3870395        
+WALKING           ,18                ,-0.4363061        
+WALKING           ,19                ,-0.2382528        
+WALKING           ,20                ,-0.2595181        
+WALKING           ,21                ,-0.3306487        
+WALKING           ,22                ,-0.2742010        
+WALKING           ,23                ,-0.2652967        
+WALKING           ,24                ,-0.4169752        
+WALKING           ,25                ,-0.4608421        
+WALKING           ,26                ,-0.3920088        
+WALKING           ,27                ,-0.3777713        
+WALKING           ,28                ,-0.3937873        
+WALKING           ,29                ,-0.3528949        
+WALKING           ,30                ,-0.3736075        
+WALKING_DOWNSTAIRS, 1                ,-0.2972263        
+WALKING_DOWNSTAIRS, 2                ,-0.2596773        
+WALKING_DOWNSTAIRS, 3                ,-0.3505361        
+WALKING_DOWNSTAIRS, 4                ,-0.3637904        
+WALKING_DOWNSTAIRS, 5                ,-0.2969016        
+WALKING_DOWNSTAIRS, 6                ,-0.1989224        
+WALKING_DOWNSTAIRS, 7                ,-0.3171295        
+WALKING_DOWNSTAIRS, 8                ,-0.1935199        
+WALKING_DOWNSTAIRS, 9                ,-0.3131407        
+WALKING_DOWNSTAIRS,10                ,-0.2631621        
+WALKING_DOWNSTAIRS,11                ,-0.3487174        
+WALKING_DOWNSTAIRS,12                ,-0.3114904        
+WALKING_DOWNSTAIRS,13                ,-0.3172347        
+WALKING_DOWNSTAIRS,14                ,-0.2033784        
+WALKING_DOWNSTAIRS,15                ,-0.2802273        
+WALKING_DOWNSTAIRS,16                ,-0.3390803        
+WALKING_DOWNSTAIRS,17                ,-0.3651945        
+WALKING_DOWNSTAIRS,18                ,-0.4386638        
+WALKING_DOWNSTAIRS,19                ,-0.0783064        
+WALKING_DOWNSTAIRS,20                ,-0.2471697        
+WALKING_DOWNSTAIRS,21                ,-0.2913020        
+WALKING_DOWNSTAIRS,22                ,-0.2876648        
+WALKING_DOWNSTAIRS,23                ,-0.2024655        
+WALKING_DOWNSTAIRS,24                ,-0.3590860        
+WALKING_DOWNSTAIRS,25                ,-0.4299244        
+WALKING_DOWNSTAIRS,26                ,-0.3224731        
+WALKING_DOWNSTAIRS,27                ,-0.3124461        
+WALKING_DOWNSTAIRS,28                ,-0.2916509        
+WALKING_DOWNSTAIRS,29                ,-0.3172628        
+WALKING_DOWNSTAIRS,30                ,-0.3587906        
+WALKING_UPSTAIRS  , 1                ,-0.4069966        
+WALKING_UPSTAIRS  , 2                ,-0.3639833        
+WALKING_UPSTAIRS  , 3                ,-0.4242747        
+WALKING_UPSTAIRS  , 4                ,-0.4152604        
+WALKING_UPSTAIRS  , 5                ,-0.3563535        
+WALKING_UPSTAIRS  , 6                ,-0.3306423        
+WALKING_UPSTAIRS  , 7                ,-0.4274083        
+WALKING_UPSTAIRS  , 8                ,-0.2933778        
+WALKING_UPSTAIRS  , 9                ,-0.4270754        
+WALKING_UPSTAIRS  ,10                ,-0.3456526        
+WALKING_UPSTAIRS  ,11                ,-0.4352751        
+WALKING_UPSTAIRS  ,12                ,-0.4217916        
+WALKING_UPSTAIRS  ,13                ,-0.4115821        
+WALKING_UPSTAIRS  ,14                ,-0.2854864        
+WALKING_UPSTAIRS  ,15                ,-0.3937209        
+WALKING_UPSTAIRS  ,16                ,-0.4401465        
+WALKING_UPSTAIRS  ,17                ,-0.4014314        
+WALKING_UPSTAIRS  ,18                ,-0.4706815        
+WALKING_UPSTAIRS  ,19                ,-0.3168211        
+WALKING_UPSTAIRS  ,20                ,-0.3382919        
+WALKING_UPSTAIRS  ,21                ,-0.3819670        
+WALKING_UPSTAIRS  ,22                ,-0.3051855        
+WALKING_UPSTAIRS  ,23                ,-0.3695813        
+WALKING_UPSTAIRS  ,24                ,-0.4358383        
+WALKING_UPSTAIRS  ,25                ,-0.4855122        
+WALKING_UPSTAIRS  ,26                ,-0.4116728        
+WALKING_UPSTAIRS  ,27                ,-0.4262671        
+WALKING_UPSTAIRS  ,28                ,-0.4010930        
+WALKING_UPSTAIRS  ,29                ,-0.3644297        
+WALKING_UPSTAIRS  ,30                ,-0.4393707        
