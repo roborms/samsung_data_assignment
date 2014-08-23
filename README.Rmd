@@ -5,7 +5,8 @@ output: html_document
 
 Included in this repository is the following:
 
-1.)  run_analysis.R  -  Script to run from the default directory which includes the dataset as well.
+1.) run_analysis.R  -  Script to run from the default directory which includes the dataset as well.  The mean and sd was taken from all 
+    561 variables from each activity and subject and added to the end as two new columns.  Script is documented.     
 
 2.)  code book  - lists the column descriptions of the data.  
 
